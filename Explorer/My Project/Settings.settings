@@ -1,0 +1,168 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="KnownFormats" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;.cfg&lt;/string&gt;
+  &lt;string&gt;.doc&lt;/string&gt;
+  &lt;string&gt;.docx&lt;/string&gt;
+  &lt;string&gt;.3ds&lt;/string&gt;
+  &lt;string&gt;.msh&lt;/string&gt;
+  &lt;string&gt;.obj&lt;/string&gt;
+  &lt;string&gt;.stl&lt;/string&gt;
+  &lt;string&gt;.ocx&lt;/string&gt;
+  &lt;string&gt;.dll&lt;/string&gt;
+  &lt;string&gt;.exe&lt;/string&gt;
+  &lt;string&gt;.msi&lt;/string&gt;
+  &lt;string&gt;.vbs&lt;/string&gt;
+  &lt;string&gt;.hta&lt;/string&gt;
+  &lt;string&gt;.html&lt;/string&gt;
+  &lt;string&gt;.skp&lt;/string&gt;
+  &lt;string&gt;.avd&lt;/string&gt;
+  &lt;string&gt;.avi&lt;/string&gt;
+  &lt;string&gt;.mp4&lt;/string&gt;
+  &lt;string&gt;.mp3&lt;/string&gt;
+  &lt;string&gt;.mov&lt;/string&gt;
+  &lt;string&gt;.vob&lt;/string&gt;
+  &lt;string&gt;.vb&lt;/string&gt;
+  &lt;string&gt;.sln&lt;/string&gt;
+  &lt;string&gt;.cs&lt;/string&gt;
+  &lt;string&gt;.htm&lt;/string&gt;
+  &lt;string&gt;.vbproj&lt;/string&gt;
+  &lt;string&gt;.csproj&lt;/string&gt;
+  &lt;string&gt;.xml&lt;/string&gt;
+  &lt;string&gt;.gif&lt;/string&gt;
+  &lt;string&gt;.png&lt;/string&gt;
+  &lt;string&gt;.jpg&lt;/string&gt;
+  &lt;string&gt;.jpeg&lt;/string&gt;
+  &lt;string&gt;.bmp&lt;/string&gt;
+  &lt;string&gt;.ico&lt;/string&gt;
+  &lt;string&gt;.tiff&lt;/string&gt;
+  &lt;string&gt;.pdf&lt;/string&gt;
+  &lt;string&gt;.xlsx&lt;/string&gt;
+  &lt;string&gt;.pptx&lt;/string&gt;
+  &lt;string&gt;.rtf&lt;/string&gt;
+  &lt;string&gt;.txt&lt;/string&gt;
+  &lt;string&gt;.raw&lt;/string&gt;
+  &lt;string&gt;.lnk&lt;/string&gt;
+  &lt;string&gt;.rar&lt;/string&gt;
+  &lt;string&gt;.zip&lt;/string&gt;
+  &lt;string&gt;.iso&lt;/string&gt;
+  &lt;string&gt;.dae&lt;/string&gt;
+  &lt;string&gt;.reg&lt;/string&gt;
+  &lt;string&gt;.ini&lt;/string&gt;
+  &lt;string&gt;.vm&lt;/string&gt;
+  &lt;string&gt;.vhd&lt;/string&gt;
+  &lt;string&gt;.midi&lt;/string&gt;
+  &lt;string&gt;.wav&lt;/string&gt;
+  &lt;string&gt;.bat&lt;/string&gt;
+  &lt;string&gt;.cpl&lt;/string&gt;
+  &lt;string&gt;.dds&lt;/string&gt;
+  &lt;string&gt;.tex&lt;/string&gt;
+  &lt;string&gt;.ttf&lt;/string&gt;
+  &lt;string&gt;.log&lt;/string&gt;
+  &lt;string&gt;.scr&lt;/string&gt;
+  &lt;string&gt;.psd&lt;/string&gt;
+  &lt;string&gt;.xcf&lt;/string&gt;
+  &lt;string&gt;.js&lt;/string&gt;
+  &lt;string&gt;.partial&lt;/string&gt;
+  &lt;string&gt;.torrent&lt;/string&gt;
+  &lt;string&gt;.mid&lt;/string&gt;
+  &lt;string&gt;.ocx&lt;/string&gt;
+  &lt;string&gt;.resx&lt;/string&gt;
+  &lt;string&gt;.inf&lt;/string&gt;
+  &lt;string&gt;.application&lt;/string&gt;
+  &lt;string&gt;.vdi&lt;/string&gt;
+  &lt;string&gt;.thmx&lt;/string&gt;
+  &lt;string&gt;.url&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="FormatDescriptions" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Configuration File&lt;/string&gt;
+  &lt;string&gt;Word Document&lt;/string&gt;
+  &lt;string&gt;Word Document&lt;/string&gt;
+  &lt;string&gt;3D Object&lt;/string&gt;
+  &lt;string&gt;Mesh File&lt;/string&gt;
+  &lt;string&gt;3D Object&lt;/string&gt;
+  &lt;string&gt;3D Object&lt;/string&gt;
+  &lt;string&gt;Application Extension&lt;/string&gt;
+  &lt;string&gt;Application Extension&lt;/string&gt;
+  &lt;string&gt;Executable File&lt;/string&gt;
+  &lt;string&gt;Microsoft Installer Package&lt;/string&gt;
+  &lt;string&gt;VBScript File&lt;/string&gt;
+  &lt;string&gt;HTML Application&lt;/string&gt;
+  &lt;string&gt;HTML Document&lt;/string&gt;
+  &lt;string&gt;Sketchup Object&lt;/string&gt;
+  &lt;string&gt;AVWord Document&lt;/string&gt;
+  &lt;string&gt;Audio Visual FIle&lt;/string&gt;
+  &lt;string&gt;Video FIle&lt;/string&gt;
+  &lt;string&gt;Audio FIle&lt;/string&gt;
+  &lt;string&gt;VIdeo File&lt;/string&gt;
+  &lt;string&gt;VLC Video FIle&lt;/string&gt;
+  &lt;string&gt;Visual Basic Source&lt;/string&gt;
+  &lt;string&gt;Visual Studio Solution&lt;/string&gt;
+  &lt;string&gt;C# Source&lt;/string&gt;
+  &lt;string&gt;HTML Document&lt;/string&gt;
+  &lt;string&gt;Visual Basic Project&lt;/string&gt;
+  &lt;string&gt;C# Project&lt;/string&gt;
+  &lt;string&gt;XML Document&lt;/string&gt;
+  &lt;string&gt;Animated GIF&lt;/string&gt;
+  &lt;string&gt;Portable Network Graphic&lt;/string&gt;
+  &lt;string&gt;JPG Image&lt;/string&gt;
+  &lt;string&gt;JPEG Image&lt;/string&gt;
+  &lt;string&gt;Bitmap Image&lt;/string&gt;
+  &lt;string&gt;Icon&lt;/string&gt;
+  &lt;string&gt;TIFF Image&lt;/string&gt;
+  &lt;string&gt;PDF Document&lt;/string&gt;
+  &lt;string&gt;Excel Document&lt;/string&gt;
+  &lt;string&gt;PowerPoint Presentation&lt;/string&gt;
+  &lt;string&gt;Rich Text Document&lt;/string&gt;
+  &lt;string&gt;Text Document&lt;/string&gt;
+  &lt;string&gt;Raw Image&lt;/string&gt;
+  &lt;string&gt;Shortcut&lt;/string&gt;
+  &lt;string&gt;Winrar Archive&lt;/string&gt;
+  &lt;string&gt;Compressed Archive&lt;/string&gt;
+  &lt;string&gt;Virtual Disk Image&lt;/string&gt;
+  &lt;string&gt;Collalda FIle&lt;/string&gt;
+  &lt;string&gt;Registry Entries&lt;/string&gt;
+  &lt;string&gt;Configuration Setting&lt;/string&gt;
+  &lt;string&gt;Virtual Machine&lt;/string&gt;
+  &lt;string&gt;Virtual Hard DIsk&lt;/string&gt;
+  &lt;string&gt;Audio&lt;/string&gt;
+  &lt;string&gt;Batch File&lt;/string&gt;
+  &lt;string&gt;Control Panel Item&lt;/string&gt;
+  &lt;string&gt;DirectDraw Surface File&lt;/string&gt;
+  &lt;string&gt;Texture File&lt;/string&gt;
+  &lt;string&gt;TrueType Font&lt;/string&gt;
+  &lt;string&gt;Text Document&lt;/string&gt;
+  &lt;string&gt;Screen Saver&lt;/string&gt;
+  &lt;string&gt;Photoshop Document&lt;/string&gt;
+  &lt;string&gt;GIMP Image&lt;/string&gt;
+  &lt;string&gt;JavaScript File&lt;/string&gt;
+  &lt;string&gt;Incomplete Download&lt;/string&gt;
+  &lt;string&gt;Torrent URL&lt;/string&gt;
+  &lt;string&gt;MIDI Sequence&lt;/string&gt;
+  &lt;string&gt;ActiveX Extension&lt;/string&gt;
+  &lt;string&gt;.NET Managed Resource FIle&lt;/string&gt;
+  &lt;string&gt;Setup Infoemation&lt;/string&gt;
+  &lt;string&gt;Application Manifest&lt;/string&gt;
+  &lt;string&gt;Virtual Disc Image&lt;/string&gt;
+  &lt;string&gt;Microsoft Office Theme&lt;/string&gt;
+  &lt;string&gt;Internet Shortcut&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="IsBgImageEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="View" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="FocusPercentage" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
